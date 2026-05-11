@@ -375,3 +375,18 @@ h2 {
   height: 100%;
   object-fit: cover;
 }
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+}
+
+.brand img {
+  width: 55px;
+  height: auto;
+  object-fit: contain;
+}
